@@ -1,0 +1,6 @@
+
+Copyright (C) 2010 Conceiva Pty. Ltd.
+
+Copyright (C) 1998 Gilles Vollant. Portions of this software are based in part on the ZLib library written by Gilles Vollant.
+
+Some of the features in this software are provided by the Awasu Feed Parser SDK.  For more information, visit http://www.awasu.com
